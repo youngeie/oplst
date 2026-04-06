@@ -1,14 +1,9 @@
-{
-  "server": {
-    "address": "192.168.124.11",
-    "port": 5244
-  },
-  "auth": {
+[
+  {
+    "name": "我的 AList",
+    "server": "http://192.168.124.11:5244",
     "username": "admin",
-    "password": "123456"
-  },
-  "settings": {
-    "enabled": true,
-    "description": "本地 AList 服务连接配置"
+    "password": "123456",
+    "path": "/"
   }
-}
+]
