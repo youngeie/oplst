@@ -1,0 +1,9 @@
+[
+  {
+    "name": "我的 WebDAV",
+    "server": "http://192.168.124.11:5244/dav",
+    "username": "admin",
+    "password": "123456",
+    "path": "/"
+  }
+]
